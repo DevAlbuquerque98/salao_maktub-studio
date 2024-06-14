@@ -16,7 +16,7 @@ O "Sistema de Agendamento e Gestão do MAKTUB - STUDIO" é um projeto em desenvo
 |||
 
 ## 📚 Referências
-[Ministério das Relações Exteriores do Brasil](https://www.gov.br/mre/pt-br)
+[Salão de Beleza Maktub-Studio]([https://www.gov.br/mre/pt-br](https://www.instagram.com/maktubstudio_ofc/))
 
 ## 📞 Contato 
 | Colaboradores          | Rede Social                                                                                                                                                                                                                                         |
