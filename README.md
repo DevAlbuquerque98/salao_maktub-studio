@@ -16,7 +16,7 @@ O "Sistema de Agendamento e Gestão do MAKTUB - STUDIO" é um projeto em desenvo
 |||
 
 ## 📚 Referências
-[Salão de Beleza Maktub-Studio] (https://www.instagram.com/maktubstudio_ofc/)
+[Salão de Beleza Maktub-Studio](https://www.instagram.com/maktubstudio_ofc/)
 
 ## 📞 Contato 
 | Colaboradores          | Rede Social                                                                                                                                                                                                                                         |
